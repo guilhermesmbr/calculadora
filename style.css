@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(78, 78, 76);
+}
+
+#calc {
+    background-color: azure;
+    height: 400px;
+    width: 350px;
+    margin: 180px 450px;
+    border: solid;
+}
+
+.tabela {
+    padding: 0px 35px;
+    margin: 100px 0px;
+}
+
+.div {
+    height: 0px;
+    width: 320px;
+}
+
+#visor {
+    height: 40px;
+    width: 265px;
+    margin: 35px 38px;
+    border: solid;
+    font-size: 25px;
+}
+
+.linhas {
+   height: 60px;
+   width: 60px;
+   border: solid;
+   font-size: 20px;
+   margin-right: 8px;
+   border-radius: 20%;
+   font-weight: bold;
+}
+
+.clear {
+    background-color: red;
+}
+
+.operadores {
+    background-color: blue;
+}
